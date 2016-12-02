@@ -1,0 +1,7 @@
+name: Commerce AsiaPay
+type: module
+description: Payment using AsiaPay (PayDollar/PesoPay/SiamPay)
+core: 8.x
+package: Commerce
+dependencies:
+  - commerce_payment
